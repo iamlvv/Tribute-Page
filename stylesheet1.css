@@ -1,0 +1,99 @@
+header {
+    color: rgba(248, 136, 8, 0.4);
+    font-weight: bold;
+    font-family: 'Pushster', cursive;
+    font-size: 32pt;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 50px;
+}
+
+body {
+    background-color:beige;
+}
+div {
+    text-align: justify;
+    font-family: cursive;
+    color: rebeccapurple;
+    border: 3px dotted darkblue;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 10px 10px 10px 10px;
+    float: left;
+    width: 800px;
+}
+span {
+    font-weight: bold;
+    color: darkcyan;
+}
+table {
+    float: right;
+    border-collapse: collapse;
+    position: relative;
+    font-family: cursive;
+    margin-top: 50px;
+    display: inline;
+}
+#image {
+    border: 0px;
+    background-color: transparent;
+    
+}
+img {
+    transition: 0.3s ease;
+    display: inline;
+    overflow:hidden;
+}
+img:hover {
+    transform: scale(1.15);
+}
+th, td {
+    border-collapse: collapse;
+    padding: 5px;
+    
+}
+
+th {
+    background-color:  rgba(25, 191, 241, 0.4);
+}
+footer div {
+    background-color: rgba(248, 136, 8, 0.4);
+    width: 100%;
+    border: none;
+    border-radius: 0%;
+    height: 100%;
+}
+#social {
+    text-decoration: none;
+}
+td {
+    text-align: center; 
+    background-color: rgba(214, 222, 111, 0.4);
+}
+section {
+    text-align: center;
+}
+footer p {
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Pushster', cursive;
+    padding: 10px;
+}
+footer li {
+    list-style-type: none;
+    display: inline;
+    position: relative;
+    padding: 20px;
+    margin: auto;
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    text-decoration: none;
+}
+
+
